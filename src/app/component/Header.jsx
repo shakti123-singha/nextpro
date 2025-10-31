@@ -41,7 +41,7 @@ export default function Header() {
           <div className="flex items-center gap-4">
             <div className="w-12 h-12 rounded-lg bg-white/20 flex items-center justify-center ring-1 ring-white/30">
               <Image
-                src="/logo svg.svg"
+                src="/image/logo SVG.svg"
                 alt="AD SHASTREE Logo"
                 width={40}
                 height={40}
